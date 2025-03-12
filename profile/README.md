@@ -9,5 +9,5 @@
 
 ## Contact
 
-- email: seongwon@gmail.com
-- 오픈채팅: https://open.kakao.com/o/s21dRWjh
+email: seongwon@gmail.com <br/>
+오픈채팅: https://open.kakao.com/o/s21dRWjh
